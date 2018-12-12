@@ -3,7 +3,7 @@
 this is repo is created inorder to learn Jenkins setup and build trigger
 
 
-#Step:2 to learn Markdown syntax
+# Step:2 to learn Markdown syntax
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
